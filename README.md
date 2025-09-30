@@ -34,7 +34,7 @@ Show Confirmation Message
 
 ## Output:
 
-<img width="1536" height="1024" alt="Copilot_20250930_134713" src="https://github.com/user-attachments/assets/fe7e96e4-b826-41e3-aa14-f304c1e340c6" />
+[Copilot_20250930_134713.pdf](https://github.com/user-attachments/files/22614755/Copilot_20250930_134713.pdf)
 
 
 ## Result:
