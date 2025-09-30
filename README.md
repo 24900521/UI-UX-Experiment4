@@ -2,7 +2,7 @@
 
 ## Aim:
 
-esign a wireframe diagram for a generic application or website
+To design a wireframe diagram for a generic application or website
 
 
 ## Algorithm:
