@@ -7,16 +7,28 @@ esign a wireframe diagram for a generic application or website
 
 ## Algorithm:
 Show Splash Screen
+
 User taps "Get Started"
+
 Show Login/Signup Screen
+
 Authenticate user
+
 Show Home Dashboard
+
 Display offers and search
+
 User browses restaurants
+
 Selects items to order
+
 Go to Checkout
+
+
 Enter address and payment
+
 Submit Order
+
 Show Confirmation Message
 
 
