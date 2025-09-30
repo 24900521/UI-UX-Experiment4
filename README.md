@@ -39,4 +39,4 @@ Show Confirmation Message
 
 ## Result:
 
-Thus the design is upadated
+Thus the design is updated
